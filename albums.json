@@ -1,0 +1,21 @@
+[
+    {
+      "album": "Thriller",
+      "artist": "Michael Jackson",
+      "year": 1982,
+      "tracks": ["Thriller", "Beat It", "Billie Jean", "Human Nature", "Wanna Be Startin' Somethin'"]
+    },
+    {
+      "album": "Rumours",
+      "artist": "Fleetwood Mac",
+      "year": 1977,
+      "tracks": ["Go Your Own Way", "Dreams", "Don't Stop", "The Chain", "Gold Dust Woman"]
+    },
+    {
+      "album": "The Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "year": 1973,
+      "tracks": ["Speak to Me", "Breathe", "Time", "Money", "Us and Them"]
+    }
+  ]
+  
